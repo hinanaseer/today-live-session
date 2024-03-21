@@ -61,6 +61,7 @@ let result:number = number1 + number2;
 // print result
 console.log(result);
 
+//assignment no 11
 
 
 
